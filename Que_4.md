@@ -21,7 +21,7 @@
 
 ---
 
-## 💻 C Code
+## C Code
 
 ```c
 #include <stdio.h>
