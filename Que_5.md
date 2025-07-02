@@ -1,6 +1,6 @@
 ## 5. Write a C program to print the following number pattern based on **user input** for the number of rows:
 
-### Example (for rows = 4):
+### Example (for rows = 4)
 
 ```
 1
